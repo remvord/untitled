@@ -16,4 +16,3 @@ def blink(number):
 
 
 blink(3)
-@@@@
